@@ -1,0 +1,39 @@
+Nb_etudiant = 35 
+
+ 
+
+99	 Roger       	 Ebba        	 17.00       
+85	 Chabba      	 Dalila      	 16.17       
+20	 Mas         	 Abella      	 15.33       
+63	 Fabre       	 Fanélie     	 15.17       
+72	 Rolland     	 Daisy       	 14.83       
+34	 Navarro     	 Fannie      	 14.67       
+56	 Comes       	 Fanchon     	 14.00       
+15	 Richard     	 Cadfan      	 13.67       
+24	 Garrigue    	 Dahlia      	 13.50       
+25	 Martin      	 Callie      	 13.42       
+46	 Rodriguez   	 Kaline      	 13.42       
+1 	 Garcia      	 Aaricia     	 13.33       
+45	 Pastor      	 Ober        	 13.33       
+13	 Gil         	 Baptiste    	 13.33       
+5 	 Blanc       	 Aaron       	 13.17       
+48	 Olive       	 Walter      	 13.17       
+8 	 Serra       	 Abbon       	 12.25       
+12	 Torrès      	 Baldwin     	 12.17       
+10	 Guisset     	 Abby        	 11.83       
+78	 Ribes       	 Eadwin      	 11.50       
+50	 Diaz        	 Zelda       	 11.50       
+18	 Canal       	 Caline      	 11.33       
+22	 Arnaud      	 Calixtine   	 11.17       
+16	 Sanchez     	 Cadroe      	 11.00       
+44	 Bernard     	 Oanell      	 11.00       
+19	 Salvat      	 Caleb       	 10.50       
+17	 Esteve      	 Caïssa      	 10.17       
+7 	 Sola        	 Balbine     	 10.17       
+14	 Simon       	 Cainnech    	 9.83        
+21	 Costa       	 Calimero    	 9.58        
+6 	 Pla         	 Babet       	 9.50        
+9 	 Lopez       	 Baldassare  	 9.25        
+23	 Carrère     	 Daen        	 7.33        
+11	 Martinez    	 Abdel       	 6.67        
+35	 Fernandez   	 Eadbert     	 6.58        

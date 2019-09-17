@@ -1,0 +1,62 @@
+Nb_etudiant=35
+
+1	Garcia 		Aaricia			15		
+5	Blanc			Aaron				16
+8	Serra			Abbon				12
+10	Guisset		Abby				10		
+11	Martinez		Abdel				5
+20	Mas			Abella			18
+6	Pla			Babet				3
+7	Sola			Balbine			6.5
+9	Lopez			Baldassare			8.5
+12	Torrès		Baldwin			12
+13	Gil			Baptiste			13.5
+15	Richard		Cadfan			14
+16	Sanchez		Cadroe			10.5
+14	Simon			Cainnech			7
+17	Esteve		Caïssa			6.5
+19	Salvat		Caleb				6.75
+21	Costa			Calimero			8
+18	Canal			Caline			11
+22	Arnaud		Calixtine			11
+25	Martin		Callie			12.75
+23	Carrère		Daen				1.25
+24	Garrigue		Dahlia			14
+72	Rolland		Daisy				16
+85	Chabba		Dalila			18
+35	Fernandez		Eadbert			5
+78	Ribes			Eadwin			4.5
+99	Roger			Ebba				19
+56	Comes			Fanchon			16
+63	Fabre			Fanélie			16.5
+34	Navarro		Fannie			17
+44	Bernard		Oanell			10
+45	Pastor		Ober				12
+46	Rodriguez		Kaline			13	
+48	Olive			Walter			14.5
+50	Diaz			Zelda          		10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
